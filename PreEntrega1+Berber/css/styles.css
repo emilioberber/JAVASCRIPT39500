@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #0F6771;
+    color: white;
+    font-family: "Source Serif Pro", serif;
+    text-align: center;
+}
+header{
+    text-align: center;
+}
+h1{ /*Fonts style for titles*/
+    font-family: "Roboto Slab", serif;
+    font-size: 50px;
+}
