@@ -9,9 +9,7 @@ https://docs.google.com/document/d/1iAqx8z4VYRSL1SRhMmfgGfNvS7Q8ncM7bPDY3eE93rI/
 
 REPOSITORIOS CLASES:
 
-CLASE 1: https://github.com/LucianaGarro/clase-1--sabados
-CLASE 2: https://github.com/AndresPataFM/comision-39500-clase-2
-CLASE 3: https://github.com/AndresPataFM/Javascript-39500/tree/main/Funciones%20y%20Objetos
+CLASE 1 PROFA: https://github.com/LucianaGarro/clase-1--sabados
 REPO DEL TUTOR: https://github.com/AndresPataFM/Javascript-39500
 
 GITHUB:

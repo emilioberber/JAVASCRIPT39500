@@ -26,29 +26,17 @@ if(continenteLowerCase === "eu"){
     cotizar()
     
 }else if(continenteLowerCase === "am"){
-    let aceptar = true
-    while(aceptar){
-        confirm("Bienvenido a viajes en AMÉRICA\n\nEste viaje te llevará a:\n- Estados Unidos\n- México\n- Canadá")
-        cotizar()
-    }
+    alert("Bienvenido a viajes en AMÉRICA\n\nEste viaje te llevará a:\n- Estados Unidos\n- México\n- Canadá")
+    cotizar()
 }else if(continenteLowerCase === "as"){
-    let aceptar = true
-    while(aceptar){
-        confirm("Bienvenido a viajes en ASIA\n\nEste viaje te llevará a:\n- Japón\n- Indonesia\n- China")
-        cotizar()
-    }
+    alert("Bienvenido a viajes en ASIA\n\nEste viaje te llevará a:\n- Japón\n- Indonesia\n- China")
+    cotizar()
 }else if(continenteLowerCase === "af"){
-    let aceptar = true
-    while(aceptar){
-        confirm("Bienvenido a viajes en AFRICA\n\nEste viaje te llevará a:\n- Sudáfrica\n- Nigeria\n- Marruecos")
-        cotizar()
-    }
+    alert("Bienvenido a viajes en AFRICA\n\nEste viaje te llevará a:\n- Sudáfrica\n- Nigeria\n- Marruecos")
+    cotizar()
 }else if(continenteLowerCase === "oc"){
-    let aceptar = true
-    while(aceptar){
-        confirm("Bienvenido a viajes en OCEANÍA\n\nEste viaje te llevará a:\n- Nueva Zelanda\n- Australia\n- Fiyi")
-        cotizar()
-    }
+    alert("Bienvenido a viajes en OCEANÍA\n\nEste viaje te llevará a:\n- Nueva Zelanda\n- Australia\n- Fiyi")
+    cotizar()
 }else{
     alert("Lo siento, no agregaste una opción válida!")
 }
