@@ -8,9 +8,11 @@ CONCEPTOS DE GIT Y GITHUB:
 https://docs.google.com/document/d/1iAqx8z4VYRSL1SRhMmfgGfNvS7Q8ncM7bPDY3eE93rI/edit
 
 REPOSITORIOS CLASES:
-
 CLASE 1 PROFA: https://github.com/LucianaGarro/clase-1--sabados
 REPO DEL TUTOR: https://github.com/AndresPataFM/Javascript-39500
 
-GITHUB:
+MIS GITHUB GUÍA:
 https://docs.google.com/document/d/1dCG98ZbPoX2kyZPy3IQsqYLj00J-BJmYZKDVcZNoPMw/edit
+
+PRÁCTICA EJERCICIOS JS:
+https://www.codewars.com/collections/javascript-basics-2
