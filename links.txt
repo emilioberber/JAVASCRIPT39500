@@ -16,3 +16,8 @@ https://docs.google.com/document/d/1dCG98ZbPoX2kyZPy3IQsqYLj00J-BJmYZKDVcZNoPMw/
 
 PRÁCTICA EJERCICIOS JS:
 https://www.codewars.com/collections/javascript-basics-2
+
+Página con ejemplos de más eventos en JS:
+https://es.javascript.info/events-change-input
+Y 
+https://developer.mozilla.org/es/docs/Web/Events
